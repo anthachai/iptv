@@ -33,8 +33,8 @@ http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8
 http://61.19.242.134/feed/202105171329/chtnn/index.m3u8 
 #EXTINF:-1  tvg-id="17" tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8pHY8.jpg" tvg-chno="17" group-title="Digital IPTV" tvg-name="สำรวจโลก" ,สำรวจโลก
 http://203.159.95.172:8081/live/explore/playlist.m3u8
-#EXTINF:-1  tvg-id="18" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6ORI.md.png" tvg-chno="18" group-title="Digital IPTV" tvg-name="NEWSTV 18",NEWSTV 18
-http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
+#EXTINF:-1  tvg-id="18" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6ORI.md.png" tvg-chno="18" group-title="Digital IPTV" tvg-name="JKN 18",JKN 18
+https://edge6a.v2h-cdn.com/m2i4/JKN.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo-small="http://thaiip.tv/tvlogo2/mty1.png" tvg-logo="http://thaiip.tv/tvlogo2/mty1.png" tvg-chno="19" group-title="Digital IPTV" tvg-name="มัธยมศึกษาปีที่1",มัธยมศึกษาปีที่1
 https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/mty2.png" tvg-logo="http://thaiip.tv/tvlogo2/mty2.png" tvg-chno="20" group-title="Digital IPTV" tvg-name="มัธยมศึกษาปีที่2",มัธยมศึกษาปีที่2
