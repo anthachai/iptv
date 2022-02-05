@@ -28,7 +28,7 @@ https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo-small="http://thaiip.tv/tvlogo2/pratom6.png" tvg-logo="http://thaiip.tv/tvlogo2/pratom6.png" tvg-chno="14" group-title="Digital IPTV" tvg-name="ประถมศึกษาปีที่6",ประถมศึกษาปีที่6
 https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
 #EXTINF:-1  tvg-id="15" group-title="Digital IPTV" tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPn0AQ.jpg" tvg-chno="15" tvg-name="PSI SARADEE",PSI SARADEE(สาระดี)
-https://freelive2.inwstream.com:1936/freelive-edge/saradee99/chunks.m3u8
+http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo-small="http://thaiip.tv/tvlogo2/16.png" tvg-logo="http://thaiip.tv/tvlogo2/16.png" tvg-chno="16" group-title="Digital IPTV" tvg-name="TNN",TNN 16 HD
 http://61.19.242.134/feed/202105171329/chtnn/index.m3u8 
 #EXTINF:-1  tvg-id="17" tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8pHY8.jpg" tvg-chno="17" group-title="Digital IPTV" tvg-name="สำรวจโลก" ,สำรวจโลก
